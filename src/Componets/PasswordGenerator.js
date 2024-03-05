@@ -84,7 +84,7 @@ const PasswordGenerator = () => {
           </h1>
           <section className="mb-4">
             <label className="select-none block mb-2 font-medium break-all">
-              Password Length Not use 1,2,3 gjsldkgjlsdkjglk
+              Password Length Not use 1,2,3
             </label>
             <input
               type="number"
